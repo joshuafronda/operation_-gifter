@@ -1,0 +1,5 @@
+{
+  "name": "Operation: Gifter",
+  "description": "A gamified secret santa app where admins run missions and users are secret agents assigned a target.",
+  "requestFramePermissions": []
+}
